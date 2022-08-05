@@ -1,0 +1,112 @@
+header {
+  display: flex;
+  padding: 5px;
+  position: -webkit-sticky;
+  position: sticky;
+  /* background-color: blue; */
+}
+header a {
+  text-decoration: none;
+}
+.favicon {
+  margin-left: 60px;
+}
+
+nav {
+}
+nav ul {
+  display: flex;
+  margin: auto;
+  margin-left: 570px;
+  padding-top: 15px;
+}
+nav ul li {
+  list-style: none;
+  padding: 15px;
+}
+nav ul li:hover {
+  /* background-color: tomato; */
+  color: blue;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+.navbar-hover:hover {
+  color: blue;
+}
+
+#btn-free-consultant {
+  background-color: tomato;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+#btn-free-consultant:hover {
+  background-color: white;
+  color: tomato;
+  border: 1px solid tomato;
+  font-weight: 700;
+}
+
+/* banner */
+.banner {
+  background-color: rgb(214, 221, 227);
+}
+
+.banner-text {
+  margin-top: 110px;
+  padding-right: 20px;
+}
+.banner-image {
+  margin-top: 80px;
+  padding-right: 20px;
+}
+
+.small-text {
+  color: rgb(243, 93, 67);
+}
+.btn-learn-more {
+  margin-top: 15px;
+  font-weight: 700;
+  padding: 15px 35px;
+  color: white;
+  background-color: tomato;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+.btn-learn-more:hover {
+  background-color: white;
+  color: tomato;
+
+  border: 1px solid tomato;
+}
+.btn-hireme {
+  margin-top: 15px;
+  margin-left: 10px;
+  font-weight: 700;
+  padding: 15px 35px;
+  background-color: transparent;
+  border: 1px solid tomato;
+  border-radius: 5px;
+}
+.btn-hireme:hover {
+  background-color: tomato;
+  color: white;
+}
+
+.banner-image {
+  margin-right: 120px;
+}
+.container {
+  display: flex;
+
+  margin-left: 240px;
+}
+
+h1 {
+  font-size: 45px;
+}
