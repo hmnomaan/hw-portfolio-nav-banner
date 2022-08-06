@@ -9,7 +9,7 @@ header a {
   text-decoration: none;
 }
 .favicon {
-  margin-left: 60px;
+  margin-left: 70px;
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 nav ul {
   display: flex;
   margin: auto;
-  margin-left: 570px;
+  margin-left: 560px;
   padding-top: 15px;
 }
 nav ul li {
